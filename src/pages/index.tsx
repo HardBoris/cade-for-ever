@@ -2,7 +2,7 @@
 // import Image from "next/image";
 // import { Inter } from "next/font/google";
 // import styles from "@/styles/Home.module.css";
-import { StyleTest } from "./otrostylo";
+import { StyleTest } from "../components/otrostylo";
 
 // const inter = Inter({ subsets: ['latin'] })
 
