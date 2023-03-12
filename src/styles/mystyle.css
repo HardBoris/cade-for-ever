@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: aqua;
+  color: red;
+  text-align: center;
+}
+
+input {
+  height: 40px;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  margin-left: 5px;
+  padding: 5px;
+}
